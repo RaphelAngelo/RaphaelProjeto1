@@ -7,7 +7,3 @@ def depositar(conta: int, valor: float) -> None:
         print('Deposito realizado com secesso!')
     else:
         print('Cliente não encontrado!')
-
-print(banco)
-depositar(1, 200)
-print(banco)
